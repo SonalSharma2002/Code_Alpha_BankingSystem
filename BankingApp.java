@@ -1,4 +1,4 @@
-1
+
 import java.util.Scanner;  
 class BankDetails {  
     private String accno;  
